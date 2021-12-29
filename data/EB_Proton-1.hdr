@@ -1,0 +1,172 @@
+filename                        "C:\Users\delta\AppData\Local\Temp\delta\EB_Proton-1-1.jdf"
+title                           "EB"
+author                          "delta"
+creation                        "12-MAY-2021 14:28:05"
+revision                        "12-MAY-2021 14:32:46"
+content                         "single_pulse"
+instrument                      "DELTA2_NMR"
+site                            "JNM-ECS400"
+nodename                        "FWPXAWO3HD"
+dimensions                      1
+format_version                  2.2
+storage                         "FLOAT"
+endian                          "BIG"
+x_format                        "COMPLEX"
+x_curr_points                   13107
+x_start                         12.50640154627999[ppm]
+x_stop                          -2.50640154627999[ppm]
+x_title                         "Proton"
+x_zero_point                    0
+x_freq_flip                     "FALSE"
+x_points                        16384
+x_prescans                      1
+x_domain                        "1H"
+x_offset                        5[ppm]
+x_freq                          399.78219837825003[MHz]
+x_sweep                         7.50300120048019[kHz]
+x_resolution                    0.45794685061525[Hz]
+x_curr_sweep                    7.50300120048019[kHz]
+x_curr_offset                   5[ppm]
+solvent                         "CHLOROFORM-D"
+temp_get                        23[dC]
+acq_delay                       16.14[us]
+digital_filter                  "TRUE"
+filter_factor                   8
+filter_width                    31[kHz]
+transition_ratio                0.8
+orders                          "2 28 73"
+factors                         "4  2"
+digital_filter_status           "2P"
+lock_strength                   585
+lock_level                      180
+lock_gain                       20
+lock_osc_offset                 7.26[ppm]
+lock_phase                      91.40625[deg]
+lock_osc_state                  "2H OSC ON"
+x_angle                         45[deg]
+x90                             6.83[us]
+x_90_width                      6.83[us]
+x_pulse                         3.415[us]
+relaxation_delay                5[s]
+scans                           8
+probe_id                        2772
+iterations                      1
+field_strength                  9.389766[T]
+temp_set                        25[dC]
+spin_set                        15[Hz]
+spin_get                        15[Hz]
+he_level                        56[%]
+n2_level                        100[%]
+changer_slot                    24
+experiment                      "proton.jxp"
+irr_domain                      "Proton"
+tri_domain                      "Proton"
+irr_freq                        399.78219837824997[MHz]
+tri_freq                        399.78219837824997[MHz]
+recvr_gain                      56
+irr_offset                      5[ppm]
+probe_recovery                  0.000005[s]
+mod_return                      1
+total_scans                     8
+x_sweep_clipped                 6002.40096038415413[Hz]
+tri_offset                      5[ppm]
+x_acq_duration                  2.18365952[s]
+af_version                      1
+delay_of_start                  1.99999974[s]
+actual_start_time               989645286
+clipped                         "FALSE"
+af_delay_ratio                  0
+autoshim_mode                   "AUTOSHIM OFF"
+buffer_loop                     1
+buffer_loop_index               1
+changer_slot_position           24
+collection_state                "Collect"
+end_time                        989645352
+exp_remaining                   1[s]
+exp_total                       67[s]
+lock_state                      "AUTOLOCK"
+lock_status                     "LOCK IDLE"
+num_scans                       1
+outer_buffer_loop               1
+outer_buffer_loop_index         1
+outer_scans_loop                1
+outer_scans_loop_index          1
+pass_ripple                     10[mdB]
+project_id                      72
+project_name                    "Taro"
+recvr_gain_limit                80
+recvr_gain_point                200000
+recvr_phase                     0[deg]
+sample                          1052
+sample_action                   "LOADED"
+sample_id                       "EB"
+sample_state                    "LOAD"
+sample_status                   "LOADED"
+sawtooth_range                  4
+scan                            8
+scans_loop                      8
+scans_loop_index                8
+shim_delay_state                0
+spin_action                     "SPIN ON"
+spin_state                      "SPIN ON"
+spin_status                     "SPIN ON"
+stop_ripple                     60[dB]
+temp_action                     "TEMP OFF"
+temp_state                      "TEMP OFF"
+temp_status                     "TEMP OFF"
+inst_model_number               "JNM-ECS400"
+inst_serial_number              "NM1441001300130"
+probe_tune_atn                  19[dB]
+sawtooth_shift                  7
+sawtooth_trim                   1.17
+shim_groups                     "Z1 Z2 Z3 Z4"
+shim_names                      "SHIM_Z0"
+shim_track_axis1                "NONE"
+shim_track_axis1_step           0[mHz]
+shim_track_axis2                "NONE"
+shim_track_axis2_step           0[mHz]
+shim_track_axis3                "NONE"
+shim_track_axis3_step           0[mHz]
+shim_track_axis4                "NONE"
+shim_track_axis4_step           0[mHz]
+shim_track_moni_msecs           0[s]
+shim_track_skip_autoshim        "OFF"
+shim_track_wait_msecs           0[s]
+shim_x                          227[Hz]
+shim_x2                         -399[Hz]
+shim_x2z                        23.6[Hz]
+shim_x3                         -58.6[Hz]
+shim_xz                         21.3[Hz]
+shim_xz2                        17[Hz]
+shim_xz3                        -11[Hz]
+shim_y                          1.5[Hz]
+shim_y2                         34[Hz]
+shim_y2z                        14[Hz]
+shim_y3                         -50[Hz]
+shim_yz                         -58[Hz]
+shim_yz2                        -44[Hz]
+shim_yz3                        9[Hz]
+shim_z0                         -13.01[kHz]
+shim_z1                         85.52[Hz]
+shim_z2                         42.14[Hz]
+shim_z3                         277.42000000000002[Hz]
+shim_z4                         -17.53[Hz]
+shim_z5                         1.9[Hz]
+shim_z6                         -3.87[Hz]
+version                         "5.0.6 [Windows]"
+x_acq_time                      2.18365952[s]
+x_atn                           1[dB]
+initial_wait                    1[s]
+repetition_time                 7.18365952[s]
+dead_time                       0[us]
+delay                           0[us]
+dante_presat                    "FALSE"
+irr_mode                        "Off"
+tri_mode                        "Off"
+phase                           "{0, 90, 270, 180, 180, 270, 90, 0}"
+phase_acq                       "{0, 90, 270, 180, 180, 270, 90, 0}"
+x_probe_map                     "HF1"
+dc_balanced                     "FALSE"
+x_scale                         1
+normalized                      "TRUE"
+fft_clipped                     "TRUE"
