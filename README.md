@@ -10,10 +10,9 @@ JEOL製NMRのデータについて，jdx形式（テキスト）を起点とし�
 
 <br>
 
-<div align="center">                                                                                                                
-<img src="https://user-images.githubusercontent.com/38028745/138789951-01ea1497-be71-437d-bf6e-33c96a9aa8c2.png" width = "800px">
+<div align="center">  
+![133561268-a5aa2a2b-b075-4cb2-8213-d74750dff2af](https://user-images.githubusercontent.com/38028745/147712508-7d2e6683-3d30-4356-96a6-fa8488f88d69.png)
 </div>
-
 <hr>
 
 ## 演習コード
