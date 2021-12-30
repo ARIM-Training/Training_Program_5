@@ -9,8 +9,6 @@ JEOL製NMRのデータについて，jdx形式（テキスト）を起点とし�
 **データ**：　.jdx (テキスト形式)
 
 <br>
-![133561268-a5aa2a2b-b075-4cb2-8213-d74750dff2af](https://user-images.githubusercontent.com/38028745/147712545-7f354144-30f8-4472-baeb-b4d11f2b62ec.png)
-
 <div align="center">  
 ![133561268-a5aa2a2b-b075-4cb2-8213-d74750dff2af](https://user-images.githubusercontent.com/38028745/147712508-7d2e6683-3d30-4356-96a6-fa8488f88d69.png)
 </div>
